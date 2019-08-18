@@ -10,9 +10,11 @@
 
 A native Android App to function as a POS terminal in which employees can deduct and add points to customers accounts.
 Works simply by entering the points amount to add/deduct and then scan the customers unique QR code to transfer over the points.
-Check out TheSource_Rewards_APP repo to get access to the customer app!
 
+Check out 
+<a href="https://github.com/Anando304/TheSource_Rewards_APP">TheSource_Rewards_APP repo </a> to get access to the customer app!
 
+Download APK <a href ="https://drive.google.com/file/d/1gaWIvkxb-7rNKpnvhoHBBJJl-C2KFYvw/view?usp=sharing">here</a>
 
 
 **TECHNICAL ASPECTS**
