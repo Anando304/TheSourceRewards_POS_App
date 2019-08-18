@@ -14,7 +14,7 @@ Works simply by entering the points amount to add/deduct and then scan the custo
 Check out 
 <a href="https://github.com/Anando304/TheSource_Rewards_APP">TheSource_Rewards_APP repo </a> to get access to the customer app!
 
-Download APK <a href ="https://drive.google.com/file/d/1gaWIvkxb-7rNKpnvhoHBBJJl-C2KFYvw/view?usp=sharing">here</a>
+Download POS terminal APK <a href ="https://drive.google.com/file/d/1gaWIvkxb-7rNKpnvhoHBBJJl-C2KFYvw/view?usp=sharing">here</a>
 
 
 **TECHNICAL ASPECTS**
